@@ -1,0 +1,6 @@
+{
+  "name": "DentSync",
+  "description": "The Check-Up Reminder Fix for dental clinics in Chennai. Automated WhatsApp check-up reminders that keep your chairs full.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
